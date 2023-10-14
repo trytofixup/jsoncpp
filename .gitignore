@@ -55,3 +55,9 @@ compile_commands.json
 
 # temps
 /version
+
+#install
+/install
+
+#vscode
+/.vscode
